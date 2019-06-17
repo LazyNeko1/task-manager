@@ -1,4 +1,4 @@
-#Task Manager
+Task Manager
 
 A simple task manager, written in Python.
 
