@@ -1,3 +1,22 @@
+#
+# 
+
+#NOTE: YOU NEEEEED TO HAVE
+#PySimpleGui & psutil INSTALLED!
+#
+#
+#
+#
+#
+#
+
+
+
+
+
+
+
+
 import PySimpleGUI as sg
 import psutil,time
 
